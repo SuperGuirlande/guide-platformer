@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_detection_square",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_detection_square",
+  "parent":{
+    "name":"Ennemies",
+    "path":"folders/Ennemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

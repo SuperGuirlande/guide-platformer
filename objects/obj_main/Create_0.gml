@@ -1,5 +1,6 @@
+randomize();
 /// STATES ///
-enum STATES { IDLE, RUN, FALL, JUMP, DOUBLEJUMP, WALL, HIT }
+enum STATES { IDLE, RUN, FALL, JUMP, DOUBLEJUMP, WALL, HIT, SHOOT }
 
 ///CHECKPOINTS
 globalvar last_checkpoint, death_sequence, enter_sequence, sequence_frame;
